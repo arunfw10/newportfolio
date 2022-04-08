@@ -3,7 +3,7 @@ export const personalInfo = {
     {
       firstName: "Arun ",
       lastName: "Ganesh G S",
-      occupation: "Learner | Full-Stack Web Developer",
+      occupation: "Full-Stack Web Developer",
       city: "Kollam",
       country: "India",
       email: "arunganesh.g.s.007@gmail.com",
