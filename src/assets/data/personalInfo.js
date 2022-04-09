@@ -9,7 +9,7 @@ export const personalInfo = {
       email: "arunganesh.g.s.007@gmail.com",
       phone: "+919072717993",
       socialMediaLinks: {
-        linkedInUrl: "https://www.linkedin.com/in/arun-ganesh-g-s-250011216/",
+        linkedInUrl: "https://www.linkedin.com/in/arun-ganesh-g-s-25001216/",
         githubUrl: "https://github.com/arunfw10",
       },
     },
